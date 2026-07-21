@@ -1,0 +1,4 @@
+覚えたこと
+- git add：記録対象に入れる
+- git commit：履歴に確定
+- git push：GitHubへ送る
